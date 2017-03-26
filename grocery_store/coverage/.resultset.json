@@ -1,0 +1,19 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/allisonnorthrop/ada/break_work/grocery_store/lib/product.rb": [
+
+      ],
+      "/Users/allisonnorthrop/ada/break_work/grocery_store/lib/aisle.rb": [
+
+      ],
+      "/Users/allisonnorthrop/ada/break_work/grocery_store/lib/grocery_store.rb": [
+
+      ],
+      "/Users/allisonnorthrop/ada/break_work/grocery_store/specs/product_spec.rb": [
+        1
+      ]
+    },
+    "timestamp": 1490565657
+  }
+}
