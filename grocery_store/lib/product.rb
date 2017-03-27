@@ -2,7 +2,7 @@ PRODUCTS = []
 
 module StockManager
   class Product
-    attr_reader :name, :unit_size, :market_price, :discount_price, :description
+    attr_accessor :name, :unit_size, :market_price, :discount_price, :description
 
     def initialize(name, unit_size, market_price, discount_price, description)
       @name = name.upcase.to_s
